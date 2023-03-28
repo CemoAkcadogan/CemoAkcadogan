@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CemoAkcadogan
-- 👀 I’m interested in Golang language and active directory
+- 👀 I’m interested in Golang language and cyber security
 - 🌱 I’m currently learning cyber security and web
 - 📫 How to reach me ? my mail adress = akcadogancemo@gmail.com
 
